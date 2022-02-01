@@ -1,0 +1,37 @@
+body{
+    background-color:rgb(203, 241, 253);
+    margin:0;
+    padding:0;
+}
+h3{
+color:red;
+text-align:start;
+}
+h1{
+background-color: lightyellow;
+    color:rgb(78, 90, 199);
+    border:2px solid rgb(32, 34, 31);
+}
+.container{
+    text-align: center;
+    margin-top: 1px;
+}
+.btn{
+    border:1px solid rgb(0, 0, 0);
+    background:rgb(255, 254, 252);
+    padding:10px 20px;
+font-size:20px;
+font-family: monospace;
+cursor:pointer;
+margin:10px;
+transition:0.8s;
+}
+.btn1,.btn2,.btn3,.btn4{
+color: rgb(3, 3, 2);
+}
+{
+border:2px solid rgb(32, 34, 31);
+}
+img{
+width: 200px;
+}
